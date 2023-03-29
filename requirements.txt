@@ -1,7 +1,7 @@
 Flask==2.2.2
 mysql-connector-python==8.0.29
 python-dotenv==0.21.0
-pandas==0.24.2
+pandas
 XlsxWriter==3.0.3
 cryptography==37.0.2
 gcsfs==2022.1.0
